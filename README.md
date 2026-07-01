@@ -4,10 +4,10 @@ An end-to-end data-analytics project examining **34 years of water quality acros
 
 **Stack:** R (data cleaning, EDA, visualisation) → Tableau (interactive dashboard)
 
-### 🔗 [**View the live interactive dashboard on Tableau Public →**](https://public.tableau.com/app/profile/john.phung3553/viz/SydneyBeachesWaterQualityandWeatherRecords/SydneyBeachwatchwaterqualityrainfall19912025)
+### 🔗 [**View the live interactive dashboard on Tableau Public →**](https://public.tableau.com/app/profile/john.phung3553/viz/SydneyBeachesWaterQualityandWeatherRecords/SydneyBeachwatchwaterqualityrainfall19912025#1)
 
-<!-- Add a screenshot of your dashboard here once exported: -->
-<!-- ![Dashboard preview](docs/dashboard_preview.png) -->
+<img width="1250" height="776" alt="image" src="https://github.com/user-attachments/assets/87d49545-61d2-4614-9a68-65c71d0ff676" />
+
 
 ---
 

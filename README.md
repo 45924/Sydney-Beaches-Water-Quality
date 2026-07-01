@@ -111,4 +111,4 @@ A single weather station is applied city-wide (rainfall link is directional, not
 
 **John Phung** — [Tableau Public profile](https://public.tableau.com/app/profile/john.phung3553/vizzes)
 
-*Data: NSW Beachwatch (water quality) and daily Sydney weather observations, 1991–2025.*
+*Data: [NSW Beachwatch (water quality) and daily Sydney weather observations, 1991–2025](https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-05-20/readme.md).*
